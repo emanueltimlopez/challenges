@@ -28,9 +28,9 @@
 - Read about React. [React in 100 Seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM).
 - Read about components in React.
 - Create three components (in a components folder, each in a different file):
-    A - A greeting header that introduces you (using heading tags, two minimum).
-    B - An image of yourself or something that represents you (using the image tag).
-    C - Links to your socials (using anchor tags).
+    - A greeting header that introduces you (using heading tags, two minimum).
+    - An image of yourself or something that represents you (using the image tag).
+    - Links to your socials (using anchor tags).
 - Clean the home page file of the project and import your components.    
 
 ## - Day #4
@@ -39,8 +39,8 @@
 - Learn about semantic HTML.
 - Learn about array map function.
 - Create a component with your list of your favourites things in the world, which:
-    A - Uses an HTML list element.
-    B - Iterates over an array of things using the .map function to render each item.
+    - Uses an HTML list element.
+    - Iterates over an array of things using the .map function to render each item.
     
 ## - Day #5
 ### Why is this working?
@@ -57,8 +57,8 @@
 
 - Start learning about React Hooks [React State Management](https://www.youtube.com/watch?v=-bEzt5ISACA).
 - Create a component with hidden content and a button that toggles the visibility.
-    A - Changes the state to hide and show the content with the button (using useState).
-    B - Uses conditional rendering to show the hidden content.
+    - Changes the state to hide and show the content with the button (using useState).
+    - Uses conditional rendering to show the hidden content.
 
 ## - Day #8
 ## - Day #9
